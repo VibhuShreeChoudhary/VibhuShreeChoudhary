@@ -20,6 +20,8 @@ _OTHER_
 - 📫 How to reach me: choudharyvibhushree@gmail.com
 - ⚡ Fun fact: am kinda introvert yet I like public speaking.
 
+- [<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 <!--
 **VibhuShreeChoudhary/VibhuShreeChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
