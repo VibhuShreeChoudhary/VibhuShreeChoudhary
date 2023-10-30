@@ -3,7 +3,7 @@ _ABOUT_ _ME_
 
 👩‍🎓 I am a 15-year-old student at Tagore International, juggling the worlds of academia, coding, and music.📚🖥️🎹
 💻 As a budding coder, I'm dedicated to honing my skills in the digital realm. 🖥️👩‍💻 
-🎹 Music flows through my veins, and I find solace in the harmonious notes of the piano. 🎶🎹  
+🎹 I find solace in the harmonious notes of the piano. 🎶🎹  
 🎙️ I thrive in the spotlight, enjoying the thrill of public speaking. 🗣️ 
 📚 Reading is my refuge, and I have a penchant for poetry, crafting verses that resonate with the soul. 📖✍️ 
 
